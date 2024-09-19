@@ -1,2 +1,2 @@
-<h1> Project 1 </h1>
-<h2>AI Product/Service Prototype Ideation</h2>
+<h1> Project 2 </h1>
+<h2>Large Scale Market Segmentation</h2>
